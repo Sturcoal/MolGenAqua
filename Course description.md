@@ -11,7 +11,7 @@
 7. Молекулярно-генетические [маркеры](https://github.com/Sturcoal/MolGenAqua/blob/master/%D0%9C%D0%93%D0%9C.pdf)
 8. ДНК штрихкодирование [рыб](https://github.com/Sturcoal/MolGenAqua/blob/master/DNA%20barcoding%20and%20molecular%20systematics%20of%20fishes.pdf)
 
-### Методичка "Методы фиксации образцов и выделения геномной ДНК из тканей гидробионтов" [ссылка] (https://github.com/Sturcoal/MolGenAqua/blob/master/DNA%20barcoding%20and%20molecular%20systematics%20of%20fishes.pdf)
+### Методичка "Методы фиксации образцов и выделения геномной ДНК из тканей гидробионтов" [ссылка](https://github.com/Sturcoal/MolGenAqua/blob/master/DNA%20barcoding%20and%20molecular%20systematics%20of%20fishes.pdf)
 
-### Форма для оценки знаний по данному курсу. Проверь себя. [ссылка] (https://github.com/Sturcoal/MolGenAqua/blob/master/DNA%20barcoding%20and%20molecular%20systematics%20of%20fishes.pdf)
+### Форма для оценки знаний по данному курсу. Проверь себя. [ссылка](https://goo.gl/forms/Vhj4zhHv3jS8FYA52)
 
